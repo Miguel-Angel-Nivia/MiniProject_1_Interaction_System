@@ -5,22 +5,24 @@ This is going to be the repository for all the work done for mini project 1.
 * Daniel Vasquez Murillo
 * Miguel Angel Nivia
 
-Date: To Complete.
+Date: 22:00 - 15/08/2024.
 
 ### Teacher:
 * Francisco Suarez Ramirez
 
 ## Objective:
-To Complete.
+Change the meaning of the trailer without affecting the original video.
 
 ## Explanation of the problem:
-To Complete.
+Choose a trailer for a video game or movie that is going to be released. The goal is to use audio editing software to edit the sound of the trailer without editing the video. For example, if it is a horror movie trailer, change the meaning of the trailer to make it sound like a comedy.
 
 ## Proposed Solution:
-To Complete.
+We will change the meaning of the trailer for the video game "Stalker 2", which is originally suspense/action to something more cheerful/comedy, thus using music and audio from memes. For this we will use the Filmora tool to modify the video, YouTube to find the audio and Y2mate to download the audio.
 
 ## Conclusion:
 To Complete.
 
 ## References:
-* To Complete.
+* [Youtube](https://www.youtube.com)
+* [Filmora](https://filmora.wondershare.net/es/editor-de-video/ad-filmora.html?gad_source=1&gclid=CjwKCAjwqre1BhAqEiwA7g9QhkdhDRueeiRZ26uyN0E0Kntf0vHxT0JKJgWNVdk4FUDkg2ahOFvksxoCIoQQAvD_BwE)
+* [Y2mate](https://www.y2mate.com/es906)
