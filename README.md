@@ -8,7 +8,7 @@ This is going to be the repository for all the work done for mini project 1.
 Date: 22:00 - 15/08/2024.
 
 ### Teacher:
-* Francisco Suarez Ramirez
+* Francisco Suárez Ramírez
 
 ## Objective:
 Change the meaning of the trailer without affecting the original video.
