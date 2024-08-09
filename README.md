@@ -5,7 +5,7 @@ This is going to be the repository for all the work done for mini project 1.
 * Daniel Vasquez Murillo
 * Miguel Angel Nivia
 
-Date: 22:00 - 15/08/2024.
+Delivery Date: 22:00 - 15/08/2024.
 
 ### Teacher:
 * Francisco Suárez Ramírez
