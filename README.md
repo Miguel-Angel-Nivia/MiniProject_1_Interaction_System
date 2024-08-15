@@ -17,7 +17,7 @@ Change the meaning of the trailer without affecting the original video.
 Choose a trailer for a video game or movie that is going to be released. The goal is to use audio editing software to edit the sound of the trailer without editing the video. For example, if it is a horror movie trailer, change the meaning of the trailer to make it sound like a comedy.
 
 ## Proposed Solution:
-We will change the meaning of the trailer for the video game "Stalker 2", which is originally suspense/action to something more cheerful/comedy, thus using music and audio from memes. For this we will use the Filmora tool to modify the video, YouTube to find the audio and Y2mate to download the audio and audacity for audio modification..
+We will change the meaning of the trailer for the video game "Stalker 2", which is originally a suspense/action movie, to something more cheerful/comedy, using music and audio from memes. To do this, we will use the Filmora tool to modify the video, YouTube to search for the audio, Y2mate to download the audio, and Audacity to modify the audio, where we will make tone changes, where there will be amplifications or reductions in the audio. Distortion will also be used to give a radio or television effect to some sections, gradual appearance and disappearance of some audio, and drastic changes in parts where it is convenient for us to do so, overlapping some audio and complementing others.
 
 ## Conclusion:
 In conclusion, we did a job that managed to transmit that feeling of joy and comedy that we were looking for, changing the meaning of it using Audacity to modify the audio and Filmora to add it to the video, resulting in a video full of good music and classic memes, we hope that others like it.
