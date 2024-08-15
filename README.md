@@ -23,6 +23,7 @@ We will change the meaning of the trailer for the video game "Stalker 2", which 
 In conclusion, we did a job that managed to transmit that feeling of joy and comedy that we were looking for, changing the meaning of it using Audacity to modify the audio and Filmora to add it to the video, resulting in a video full of good music and classic memes, we hope that others like it.
 
 ## References:
+* [Audacity](https://www.audacityteam.org)
 * [Youtube](https://www.youtube.com)
 * [Filmora](https://filmora.wondershare.net/es/editor-de-video/ad-filmora.html?gad_source=1&gclid=CjwKCAjwqre1BhAqEiwA7g9QhkdhDRueeiRZ26uyN0E0Kntf0vHxT0JKJgWNVdk4FUDkg2ahOFvksxoCIoQQAvD_BwE)
 * [Y2mate](https://www.y2mate.com/es906)
